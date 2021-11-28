@@ -20,7 +20,7 @@ Check out my practise projects to see my progress:
 * [personality-quiz-app](https://github.com/pduebel/personality-quiz-app 'personality-quiz-app repo')
 
 ## 📫 How to reach me ...
-I'm always open to new opportunities. Reach me using the email in my profile or on [LinkedIn](https://www.linkedin.com/in/peter-duebel-030302aa/ 'LinkedIn profile')
+I'm always open to new opportunities. The best way to reach me is using [LinkedIn](https://www.linkedin.com/in/peter-duebel-030302aa/ 'LinkedIn profile')
 
 <!---
 pduebel/pduebel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
