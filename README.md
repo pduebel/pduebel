@@ -15,6 +15,7 @@ I've been working on:
 App development with Flutter!
 
 Check out my practise projects to see my progress:
+* [flutter-chat-app](https://github.com/pduebel/flutter-chat-app 'flutter-chat-app-repo')
 * [interval-timer-app](https://github.com/pduebel/interval-timer-app 'interval-timer-app repo')
 * [word-pair-generator-app](https://github.com/pduebel/word-pair-generator-app 'word-pair-generator-app repo')
 * [personality-quiz-app](https://github.com/pduebel/personality-quiz-app 'personality-quiz-app repo')
