@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-I’m Peter. I currently work as a Data Analyst, after having spent a brief period as a Python Developer. 
+I’m Peter. I currently work as a Data Analyst after having spent a brief period as a Python Developer. 
 
 ## 👀 I’m interested in...
 
