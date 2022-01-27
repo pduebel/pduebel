@@ -1,12 +1,9 @@
 ## 👋 Hi there
 
-I’m Peter. I currently work as a Data Analyst after having spent a brief period as a Python Developer. 
+I’m Peter. I currently work as a Data Analyst after having spent a brief period as a Python Developer. I love getting outdoors, mountain biking, and taking care of the environment!
 
-## 👀 I’m interested in...
+## 👨‍💻 I’ve been working on...
 
-Mountain biking and the environment! 
-
-I've been working on:
 * Counting the carbon from my electricty consumption ([pi-carbon-energy-meter repo](https://github.com/pduebel/pi-carbon-energy-meter 'pi-carbon-energy-meter'))
 * Creating a central repository for bike bolt torque settings ([BikeTorqueSpecifications website](https://www.biketorquespecifications.com/ 'BikeTorqueSpecifications website'))
 * ✨ Mountain biking app coming soon! ✨
