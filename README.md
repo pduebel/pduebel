@@ -21,7 +21,7 @@ Photography, Travel, Hiking, and Mountain Biking
 
 ## 📫 Let’s Connect
 
-I’m open to roles that combine **innovation**, **collaboration**, and **impact**—especially if they involve a strong mission and a social team. You can reach me on [LinkedIn](https://www.linkedin.com/in/peterduebel/).
+I’m open to roles that combine **innovation**, **collaboration**, and **impact**—especially if they involve a strong mission and a social team. You can reach me on [LinkedIn](https://www.linkedin.com/in/peter-duebel/).
 
 
 <!---
