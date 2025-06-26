@@ -1,24 +1,28 @@
-## 👋 Hi there
+# 👋 Hi, I’m Peter
 
-I’m Peter. I currently work as a Data Analyst after having spent a brief period as a Python Developer. I love getting outdoors, mountain biking, and taking care of the environment!
+I’m a Data Engineer with a background in analytics and a and a growing focus on real-time pipelines and scalable architecture. I enjoy working with Python, SQL, and any tools that allow me to learn something new and do some problem-solving.
 
-## 👨‍💻 I’ve been working on...
+## 🔧 What I’ve Been Working On
 
-* Counting the carbon from my electricty consumption ([pi-carbon-energy-meter repo](https://github.com/pduebel/pi-carbon-energy-meter 'pi-carbon-energy-meter'))
-* Creating a central repository for bike bolt torque settings ([BikeTorqueSpecifications website](https://www.biketorquespecifications.com/ 'BikeTorqueSpecifications website'))
-* ✨ Mountain biking app coming soon! ✨
+- **Threat Ingestion Pipeline** – End-to-end data pipeline using Kafka, Airflow, and dbt for threat intelligence enrichment.
+- **pi-carbon-energy-meter** – IoT project using Raspberry Pi and Espruino to track electricity usage and estimate CO₂ emissions.
+- **BikeTorqueSpecifications** – A centralised web resource for bike bolt torque settings (because details matter).
+- **Flutter Apps** – Exploring mobile development with interval timers, chat apps, and quizzes.
 
-## 🌱 I’m currently learning...
-App development with Flutter!
+## 🌱 Currently Exploring
 
-Check out my practise projects to see my progress:
-* [flutter-chat-app](https://github.com/pduebel/flutter-chat-app 'flutter-chat-app-repo')
-* [interval-timer-app](https://github.com/pduebel/interval-timer-app 'interval-timer-app repo')
-* [word-pair-generator-app](https://github.com/pduebel/word-pair-generator-app 'word-pair-generator-app repo')
-* [personality-quiz-app](https://github.com/pduebel/personality-quiz-app 'personality-quiz-app repo')
+- Event-driven architectures and real-time analytics
+- Cloud tooling: Azure Synapse, Data Factory, Delta Lake
+- French phrases for travel (and croissants 🥐)
 
-## 📫 How to reach me ...
-I'm always open to new opportunities. The best way to reach me is using [LinkedIn](https://www.linkedin.com/in/peter-duebel-030302aa/ 'LinkedIn profile')
+## 📸 Outside of Tech
+
+Photography, Travel, Hiking, and Mountain Biking
+
+## 📫 Let’s Connect
+
+I’m open to roles that combine **innovation**, **collaboration**, and **impact**—especially if they involve a strong mission and a social team. You can reach me on [LinkedIn](https://www.linkedin.com/in/peterduebel/).
+
 
 <!---
 pduebel/pduebel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
