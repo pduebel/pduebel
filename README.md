@@ -4,7 +4,7 @@ Data Engineer based in London. Currently at VolkerWessels UK working with Azure 
 
 Outside of work, I build MCP servers that let AI agents interact with data platforms. First one targets Azure Data Factory - see pinned repos.
 
-[LinkedIn](https://www.linkedin.com/in/peter-duebel/).
+[LinkedIn](https://www.linkedin.com/in/peter-duebel/)
 
 
 <!---
