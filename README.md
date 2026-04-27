@@ -1,8 +1,7 @@
 # Peter Duebel
 
-Data Engineer based in London. Currently at VolkerWessels UK working with Azure Data Factory, PySpark, and Databricks.
-
-Outside of work, I build MCP servers that let AI agents interact with data platforms. First one targets Azure Data Factory - see pinned repos.
+Data Engineer based in London, focused on the intersection of data infrastructure and AI tooling.
+Recently built an MCP server that gives AI assistants direct access to Azure Data Factory - see pinned repos.
 
 [LinkedIn](https://www.linkedin.com/in/peter-duebel/)
 
