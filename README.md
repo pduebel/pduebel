@@ -1,6 +1,6 @@
 # Peter Duebel
 
-Data Engineer based in London, focused on the intersection of data infrastructure and AI tooling.
+Data Engineer based in London, building data pipelines and platforms in Databricks & Azure.
 Recently built an MCP server that gives AI assistants direct access to Azure Data Factory - see pinned repos.
 
 [LinkedIn](https://www.linkedin.com/in/peter-duebel/)
